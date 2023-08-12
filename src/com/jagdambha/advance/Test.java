@@ -4,7 +4,8 @@ public class Test {
 	
 	public static void main(String[] args) {
 		int pinCode =445001;
-		string cityName= "Yavatmal";
+		String cityName= "Yavatmal";
+		// this is the word
 	}
 
 }
