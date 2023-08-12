@@ -16,7 +16,7 @@ public class Test {
 		
 >>>>>>> branch 'master' of https://github.com/shritambaskar/Jagdambha_College.git
 	string branch="Computer"
-	System.out.println("hello jagadamba")
+	System.out.println("hello jagadamba");
 	
 	}
 
