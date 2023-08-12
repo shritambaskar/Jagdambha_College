@@ -16,8 +16,14 @@ public class Test {
 		
 >>>>>>> branch 'master' of https://github.com/shritambaskar/Jagdambha_College.git
 	string branch="Computer"
+<<<<<<< HEAD
 	System.out.println("hello jagadamba");
+=======
+>>>>>>> branch 'master' of https://github.com/shritambaskar/Jagdambha_College.git
 	
+	
+	int count= 64;
+System.out.println("hello jagadamba college of engineering ytl");
 	}
 
 }
