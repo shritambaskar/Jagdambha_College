@@ -7,6 +7,7 @@ public class Test {
 		String cityName= "Yavatmal";
 		// this is the word
 		long mobile = 67890564L;
+		System.out.println("Hello From Eclipse");
 	}
 
 }
