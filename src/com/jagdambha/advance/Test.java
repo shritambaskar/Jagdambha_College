@@ -6,6 +6,7 @@ public class Test {
 		int pinCode =445001;
 		String cityName= "Yavatmal";
 		// this is the word
+		long mobile = 67890564L;
 	}
 
 }
