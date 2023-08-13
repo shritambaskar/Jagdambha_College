@@ -20,8 +20,7 @@ public class Test {
 	System.out.println("hello jagadamba");
 =======
 >>>>>>> branch 'master' of https://github.com/shritambaskar/Jagdambha_College.git
-	//this is the computer branch print stetment
-	 System.out.println(" Computer Department");
+	//https://github.com/shritambaskar/Jagdambha_College.git
 	
 	int count= 64;
 System.out.println("hello jagadamba college of engineering ytl");
