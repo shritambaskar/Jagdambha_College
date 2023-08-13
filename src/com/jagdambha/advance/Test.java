@@ -8,7 +8,7 @@ public class Test {
 		String cityName= "Yavatmal";
 		// this is the word
 		long mobile = 67890564L;
-		System.out.println("hello jagadamba");
+		//System.out.println("hello jagadamba");
 =======
 		int cityName= "Yavatmal";
 	    long mobileno = 767655l;
@@ -17,9 +17,9 @@ public class Test {
 >>>>>>> branch 'master' of https://github.com/shritambaskar/Jagdambha_College.git
 	string branch="Computer"
 <<<<<<< HEAD
-	System.out.println("hello jagadamba");
+	//System.out.println("hello jagadamba");
 =======
->>>>>>> branch 'master' of https://github.com/shritambaskar/Jagdambha_College.git
+>>>>>>> //branch 'master' of https://github.com/shritambaskar/Jagdambha_College.git
 	//https://github.com/shritambaskar/Jagdambha_College.git
 	
 	int count= 64;
